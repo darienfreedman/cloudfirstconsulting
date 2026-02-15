@@ -963,12 +963,3 @@ blockquote {
 	top: 0;
 	left: -2400px;
 }
-
-section[style*="z-index: 1"], 
-section.display-7[style*="flex"], 
-div.mbr-section-btn + section {
-    display: none !important;
-    visibility: hidden !important;
-    height: 0 !important;
-    pointer-events: none !important;
-}
